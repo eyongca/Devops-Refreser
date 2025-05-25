@@ -1,3 +1,4 @@
 Branch protection added
 Admin added to list not to bypass
 Ruleset Added
+Creating a pull reqest to the main branch
