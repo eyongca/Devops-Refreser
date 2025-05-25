@@ -1,2 +1,2 @@
 Branch protection added
-
+Admin added to list not to bypass
